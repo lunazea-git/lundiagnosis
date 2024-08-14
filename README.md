@@ -1,5 +1,4 @@
 # lundiagnosis
-![image](https://github.com/user-attachments/assets/97e66980-97ad-41ca-b7ad-3326dc15fea9)
 
 #What can I check with this script?
 
@@ -24,3 +23,4 @@ in the same directory where you downloaded the file
 
 if you are annoyed by the constant refreshing of the terminal every second you can change this value (at the end of the script in sleep)
 
+![image](https://github.com/user-attachments/assets/97e66980-97ad-41ca-b7ad-3326dc15fea9)
