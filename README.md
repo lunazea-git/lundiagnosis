@@ -1,5 +1,7 @@
 # lundiagnosis
 
+bash script to check various parameters of the computer
+
 # What can I check with this script?
 
 for the moment you can check: uptime of the computer / username / kernel versions / CPU temperature / amount of RAM / USB devices connected to the computer
