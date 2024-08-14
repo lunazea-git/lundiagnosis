@@ -5,10 +5,15 @@
 for the moment you can check:
 
 *uptime of the computer
+
 *username
+
 *kernel versions
+
 *CPU temperature
+
 *amount of RAM
+
 *USB devices connected to the computer
 
 The script is under active development, it is not the final version
