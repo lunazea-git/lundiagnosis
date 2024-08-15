@@ -18,4 +18,9 @@ in the same directory where you downloaded the file
 
 if you are annoyed by the constant refreshing of the terminal every second you can change this value (at the end of the script in sleep)
 
+# TODO
+* display a message to the user if a required dependency is not present
+* replace CPU tempereature reading from LSCPU with procfs
+
+
 ![image](https://github.com/user-attachments/assets/97e66980-97ad-41ca-b7ad-3326dc15fea9)
