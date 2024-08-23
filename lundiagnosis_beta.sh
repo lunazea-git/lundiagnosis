@@ -43,5 +43,10 @@ echo "USB devices"
 echo
 lsusb
 
+#change it to increase or decrease the refresh rate, now it is 1 which means every 1 second it updates (of course the clock will also update every selected number of seconds so the default is 1)
+sleep 1
+
+clear
+done
 
 
