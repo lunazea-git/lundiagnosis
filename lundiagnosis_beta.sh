@@ -28,7 +28,7 @@ echo "kernel version:" $kernel_version
 echo "local ip of this pc:" $local_ip
 echo "----------------------------------------------------------------------------"
 echo
-echo CPU temp
+echo "CPU TAB"
 echo
 echo "CPU temp:" $cpu_temp C
 echo
