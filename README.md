@@ -12,7 +12,7 @@ The script is under active development, it is not the final version
 
 download the .sh file, read it before enabling, and to enable the script use the command
 
-sh ./lundiagnosis_beta.sh 
+sh ./lundiagnosis_beta_V1.sh 
 
 in the same directory where you downloaded the file
 
@@ -20,5 +20,6 @@ if you are annoyed by the constant refreshing of the terminal every second you c
 
 # TODO
 * display a message to the user if a required dependency is not present
+* testing the script on more distributions / looking for universal methods to retrieve data 
   
 ![image](https://github.com/user-attachments/assets/97e66980-97ad-41ca-b7ad-3326dc15fea9)
