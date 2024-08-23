@@ -18,6 +18,8 @@ in the same directory where you downloaded the file
 
 if you are annoyed by the constant refreshing of the terminal every second you can change this value (at the end of the script in sleep)
 
+Language in some functions is dependent on the language of the system, such as date and time
+
 # TODO
 * display a message to the user if a required dependency is not present
 * testing the script on more distributions / looking for universal methods to retrieve data 
